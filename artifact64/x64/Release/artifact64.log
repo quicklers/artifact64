@@ -1,0 +1,9 @@
+﻿  injector.c
+C:\Users\area51m\Desktop\artifact64\injector.c(198,31): warning C4013: 'NtWriteVirtualMemory' undefined; assuming extern returning int
+C:\Users\area51m\Desktop\artifact64\injector.c(174,9): warning C4101: 'wrote': unreferenced local variable
+  Generating code
+  0 of 17 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  Finished generating code
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  artifact64.vcxproj -> C:\Users\area51m\Desktop\artifact64\x64\Release\artifact64.exe
